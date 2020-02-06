@@ -8,7 +8,7 @@
 
 | Comando          | Descripción |
 |------------------|-------------|
-| `git init`       | crea un repositorio de Git vacío o reinicializa uno existente. |
+| `git init`       | Crea un repositorio de Git vacío o reinicializa uno existente. |
 | `git add .`      |  Agrega todo el contenido del archivos al índice. |
 | `git checkout .` | Deshacer todos los cambios. |
 | `git checkout -b [name-new-branch]` | Crea una nueva rama. |
