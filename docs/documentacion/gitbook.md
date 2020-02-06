@@ -1,5 +1,7 @@
 [Volver](../../README.md)
 
+![Banner](../../img/banners/gitbook.jpg)
+
 # GitBook
 
 > ⚠️ leer documentación official [documentación](https://www.npmjs.com/package/gitbook)
